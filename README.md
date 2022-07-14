@@ -5,7 +5,6 @@ The CV-Engine is an online job recruitment portal for colleges that serves as a 
 ----
 
 * Project Report: https://drive.google.com/file/d/1LRTWqghnWzresHfnYaRrrC1lGNUrX5KA/view?usp=sharing
-* Live Azure Deployment Address: http://20.196.213.24:8000/
 ----
 
 
@@ -17,5 +16,4 @@ The CV-Engine is an online job recruitment portal for colleges that serves as a 
 * Update the `.env` file with your credentials.
 * For Testing Server: `npm test`
 * For Development Server: `npm start` or `node index.js`
-* For Production Server: `npm i pm2 -g`, then run `pm2 start index.js`.
 
